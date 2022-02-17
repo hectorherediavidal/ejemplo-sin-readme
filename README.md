@@ -7,7 +7,7 @@ Debes tener un repositorio vacio ya creado en Github.
       
     git init "el nombre que quieras"
     Ejemplo: git init sinreadme
-![8](https://github.com/hectorherediavidal/ejemplo-sin-readme/blob/main/img/8.PNG.jpg "")
+![8](https://github.com/hectorherediavidal/ejemplo-sin-readme/blob/main/img/8.PNG "")
 
 # Nos movemos al repositorio que acabamos de crear:
     cd sinreadme
